@@ -1,0 +1,3 @@
+nohup: ignoring input
+/home/tcsu/All_LLM/Qwen2.5-32B-Instruct/
+Loading checkpoint shards:   0%|                                                                                                     | 0/17 [00:00<?, ?it/s]Loading checkpoint shards:   6%|█████▍                                                                                       | 1/17 [00:00<00:13,  1.22it/s]

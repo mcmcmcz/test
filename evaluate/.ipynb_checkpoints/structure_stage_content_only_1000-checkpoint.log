@@ -1,0 +1,115 @@
+nohup: ignoring input
+/home/tcsu/All_LLM/Qwen2.5-32B-Instruct/
+Loading checkpoint shards:   0%|                                                                                                                                    | 0/17 [00:00<?, ?it/s]Loading checkpoint shards:   6%|███████▎                                                                                                                    | 1/17 [00:00<00:15,  1.05it/s]Loading checkpoint shards:  12%|██████████████▌                                                                                                             | 2/17 [00:01<00:11,  1.27it/s]Loading checkpoint shards:  18%|█████████████████████▉                                                                                                      | 3/17 [00:02<00:11,  1.26it/s]Loading checkpoint shards:  24%|█████████████████████████████▏                                                                                              | 4/17 [00:03<00:09,  1.41it/s]Loading checkpoint shards:  29%|████████████████████████████████████▍                                                                                       | 5/17 [00:03<00:08,  1.36it/s]Loading checkpoint shards:  35%|███████████████████████████████████████████▊                                                                                | 6/17 [00:04<00:08,  1.37it/s]Loading checkpoint shards:  41%|███████████████████████████████████████████████████                                                                         | 7/17 [00:05<00:07,  1.36it/s]Loading checkpoint shards:  47%|██████████████████████████████████████████████████████████▎                                                                 | 8/17 [00:05<00:06,  1.36it/s]Loading checkpoint shards:  53%|█████████████████████████████████████████████████████████████████▋                                                          | 9/17 [00:06<00:05,  1.38it/s]Loading checkpoint shards:  59%|████████████████████████████████████████████████████████████████████████▎                                                  | 10/17 [00:07<00:05,  1.38it/s]Loading checkpoint shards:  65%|███████████████████████████████████████████████████████████████████████████████▌                                           | 11/17 [00:08<00:04,  1.33it/s]Loading checkpoint shards:  71%|██████████████████████████████████████████████████████████████████████████████████████▊                                    | 12/17 [00:09<00:03,  1.27it/s]Loading checkpoint shards:  76%|██████████████████████████████████████████████████████████████████████████████████████████████                             | 13/17 [00:09<00:03,  1.27it/s]Loading checkpoint shards:  82%|█████████████████████████████████████████████████████████████████████████████████████████████████████▎                     | 14/17 [00:10<00:02,  1.34it/s]Loading checkpoint shards:  88%|████████████████████████████████████████████████████████████████████████████████████████████████████████████▌              | 15/17 [00:11<00:01,  1.33it/s]Loading checkpoint shards:  94%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊       | 16/17 [00:12<00:00,  1.28it/s]Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [00:12<00:00,  1.37it/s]Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [00:12<00:00,  1.33it/s]
+共找到 25557 个解码后包含中文的 token
+1176
+testing stage_content_only
+1176
+Already Process 2025.acl-long.1579.pdf-61014271-9f7c-4d54-b938-eb4b2209cd9d
+Already Process 2025.acl-long.34.pdf-f98042b5-4551-4d53-8488-2e314050a2d4
+Already Process 2025.acl-long.16.pdf-5d3112dc-853c-4bb6-8bd7-8f0579797426
+Already Process 2025.acl-long.1247.pdf-41864de2-66ee-454e-b185-ae3c936f14fd
+Already Process 2025.acl-long.1470.pdf-41ca7e56-627e-4561-a633-e0349f108803
+Already Process 2025.acl-long.914.pdf-744b896d-405e-4ea0-a57b-a43c2ec3d524
+Already Process 2025.acl-long.77.pdf-effe037f-ebe8-456d-99c9-ff97bd786196
+Already Process 2025.acl-long.886.pdf-ce0ac843-f1ae-47b3-be31-1552c56c44b8
+Already Process 2025.acl-long.381.pdf-c5a1b5e7-68aa-4067-816c-6dc785bf77c2
+Already Process 2025.acl-long.1087.pdf-81f72bba-f288-4c25-8634-3ada509a9b98
+Already Process 2025.acl-long.1449.pdf-ee42ada3-52ea-47e2-b958-cb7a22ef1700
+Already Process 2025.acl-long.1527.pdf-48ec65b8-60d6-4ced-9765-23ada5020a40
+Already Process 2025.acl-long.852.pdf-b23bbec1-5623-4d94-8419-c8eb151c69d3
+Already Process 2025.acl-long.206.pdf-93af9b84-4694-4e01-8de6-04b32d0aa02e
+Already Process 2025.acl-long.1596.pdf-418917eb-f6a3-4f21-8662-b45542257a03
+Already Process 2025.acl-long.1110.pdf-c650e478-f596-45a3-8f72-7c2636de50d2
+Already Process 2025.acl-long.1209.pdf-1451d4ce-2329-49af-a997-ec8fc241e261
+Already Process 2025.acl-long.57.pdf-5dffc12e-8f1a-440a-b3d6-32775f64f7cf
+Already Process 2025.acl-long.561.pdf-f039aab0-3bfa-418d-ae5b-d2677820c769
+Already Process 2025.acl-long.1323.pdf-82a9f88d-549f-47a4-870d-de7d1c07038f
+Already Process 2025.acl-long.808.pdf-37dd3194-8b82-4dd8-a16d-f7e7ff59124f
+Already Process 2025.acl-long.255.pdf-a5d9fc93-7386-492f-9100-efd57b6e0172
+Already Process 2025.acl-long.1126.pdf-95e7692f-f252-4beb-9ad6-5711a035ffe9
+Already Process 2025.acl-long.288.pdf-bcd2c208-0bbc-4d64-b71e-6124dcdd2f47
+Already Process 2025.acl-long.1143.pdf-4d9879a1-31f8-4131-b4d9-a7444a008999
+Already Process 2025.acl-long.251.pdf-9da555fb-47f1-4c9c-ac40-788735147cab
+Already Process 2025.acl-long.1590.pdf-1f3c0005-3b46-40a8-af9f-17d7667c9824
+Already Process 2025.acl-long.1435.pdf-88e4f1a7-1d64-474b-8cba-7d45b8f65299
+Already Process 2025.acl-long.199.pdf-c1645e28-7f12-4f3f-9546-0ceb59cac088
+Already Process 2025.acl-long.423.pdf-bdd7b4fd-c10f-4f1e-be1d-cdf24c93b22b
+Already Process 2025.acl-long.1334.pdf-fa05b874-a4e8-4c2a-a9de-74380d2a817f
+Already Process 2025.acl-long.1404.pdf-37b32eac-0cde-4640-acfa-bb02a015fb71
+Already Process 2025.acl-long.989.pdf-2ce6c7f8-55c6-4244-8eb4-ed2e1e6095d5
+Already Process 2025.acl-long.127.pdf-6f8aba9f-e664-4e6f-88b5-417f0b1b5e93
+Already Process 2025.acl-long.509.pdf-4784b109-b234-4279-a13a-5848d4bc32a8
+Already Process 2025.acl-long.373.pdf-cef64b23-8c0d-4e7b-bf11-fe958004df22
+Already Process 2025.acl-long.460.pdf-be1f8e31-db1d-46fd-8fde-b74e28f064ee
+Already Process 2025.acl-long.258.pdf-4ae9c2f4-f6fd-46d8-94d0-570dfc5df6b5
+Already Process 2025.acl-long.925.pdf-9282677a-f3fd-4be2-9ca6-6b5e8e91b464
+Already Process 2025.acl-long.655.pdf-3b3bde9f-49bc-4865-99e0-b366fdcae2dd
+Already Process 2025.acl-long.635.pdf-8247d49b-3e34-4481-83c0-45efa49d6a38
+Already Process 2025.acl-long.60.pdf-0e5f957f-1106-4930-8464-20e7b5c200ef
+Already Process 2025.acl-long.545.pdf-ea6c7cd8-4f04-44ec-a39f-967dc90614a2
+Already Process 2025.acl-long.802.pdf-c2e94d37-e726-403c-b607-e2afbbf16406
+Already Process 2025.acl-long.1082.pdf-9236a784-fcbe-41c3-b8ed-7b4269d4ff54
+Already Process 2025.acl-long.698.pdf-dbfb67d8-4fc2-4e33-9bf9-08d4d8b4ae3a
+Already Process 2025.acl-long.371.pdf-4f539a21-4b81-4b03-bff9-0ae1c3f1e766
+Already Process 2025.acl-long.1549.pdf-68d84687-e2f6-416d-beb2-b04d06a4b57a
+Already Process 2025.acl-long.732.pdf-ee6e34f3-5562-482a-a191-b3df7248451b
+Already Process 2025.acl-long.1425.pdf-90d46e71-5507-408d-8f9d-26551e508f8f
+Already Process 2025.acl-long.1101.pdf-1c5a984b-125f-43f5-8b95-b923ee4eca1f
+Already Process 2025.acl-long.1015.pdf-095eff7c-3070-41a4-8a2f-1a54d7885acc
+Already Process 2025.acl-long.209.pdf-16b2d79a-9b09-46e5-bdf7-13ecc239f185
+Already Process 2025.acl-long.309.pdf-fa8eef5e-9095-474d-ae42-2016e85c3000
+Already Process 2025.acl-long.314.pdf-28f57e32-e1ab-42af-a325-5f2692f77ec9
+Already Process 2025.acl-long.1010.pdf-8404654c-0219-4c91-a2c2-7fbe543a10ff
+Already Process 2025.acl-long.4.pdf-730f72ab-fbca-40df-aed9-dae66bea5f36
+Already Process 2025.acl-long.1259.pdf-26415cb0-6f46-4495-a249-c3aee02cf7d9
+Already Process 2025.acl-long.1383.pdf-e2e25f45-76c3-4f1a-b3d9-06aa6eeb88c6
+Already Process 2025.acl-long.1178.pdf-e5cc41d7-deba-40ee-bc83-32bb15822026
+Already Process 2025.acl-long.624.pdf-415d14d2-8d6e-4327-bfe7-1b4795ed59c3
+Already Process 2025.acl-long.1210.pdf-615bd00f-dab8-4804-b7a8-16c252b081cd
+Already Process 2025.acl-long.652.pdf-31210284-c229-465c-babd-23da4fe18590
+Already Process 2025.acl-long.92.pdf-3522c20e-02b8-40ea-af9e-50e608b2ce00
+Already Process 2025.acl-long.1031.pdf-e8667fb9-1f73-48ee-863f-a79a945d9222
+Already Process 2025.acl-long.128.pdf-376dd2d3-aa75-425c-a763-22570b4b7b43
+Already Process 2025.acl-long.149.pdf-d4b95aec-85f1-46f6-b856-1231ff3e8618
+Already Process 2025.acl-long.1202.pdf-1eac5d42-6ccb-4b58-bddc-d650ef6e0983
+Already Process 2025.acl-long.132.pdf-e48a1352-6d0d-4bea-ad1e-d0a4efded7f6
+Already Process 2025.acl-long.1248.pdf-015d03d4-5852-4b8e-8332-1c431901e9d1
+Already Process 2025.acl-long.1066.pdf-fe281106-6b5e-4dbb-ac45-81a87155aff9
+Already Process 2025.acl-long.1055.pdf-fb27fe0c-c89e-49a0-bd4f-bdf0b4d5e386
+Already Process 2025.acl-long.387.pdf-1bd69e04-2257-4133-a938-99685a19ceb4
+Already Process 2025.acl-long.553.pdf-9c9aee83-b004-4680-8360-c1b944cd21e1
+Already Process 2025.acl-long.951.pdf-cb674228-37dc-4ab2-a9d7-a2c2052b8205
+Already Process 2025.acl-long.931.pdf-774c6968-c388-4597-b082-cde7c995cfb7
+Already Process 2025.acl-long.175.pdf-57fc382d-07a5-4580-8323-0524715b0779
+Already Process 2025.acl-long.619.pdf-0b06a497-b950-4928-b709-070ac310d7fe
+Already Process 2025.acl-long.524.pdf-68c48d8b-dabe-44ff-a606-4b8153482b4d
+Already Process 2025.acl-long.424.pdf-42d34074-f0f0-47a3-ad96-17f108094631
+Already Process 2025.acl-long.271.pdf-a4c4f23c-3b13-49af-a85e-9cfa857bc45c
+Already Process 2025.acl-long.866.pdf-21287f28-bc25-4a10-b1f3-f0cf6c6793fd
+Already Process 2025.acl-long.119.pdf-c18b7e1f-3660-467b-9ded-f8f655a2d970
+Already Process 2025.acl-long.109.pdf-002a2b57-9d7e-43bb-a08e-a97c76b6de06
+Already Process 2025.acl-long.1249.pdf-d7282262-ddb4-49e8-b20d-6d49caaa8fc2
+Already Process 2025.acl-long.861.pdf-fb72685c-5257-42fa-9520-5baa2aff18c9
+Already Process 2025.acl-long.676.pdf-60bf89d3-2d3b-4901-abbb-cbe1ad87e93e
+Already Process 2025.acl-long.961.pdf-a330f497-db88-4dcc-8c31-75d3c4a9c709
+Already Process 2025.acl-long.888.pdf-24996762-8a8e-420c-9d22-9ec94e4a4bc3
+Already Process 2025.acl-long.1276.pdf-6e059480-be15-488a-916b-2dfcb90c7b96
+Already Process 2025.acl-long.122.pdf-0c204c87-45d4-4725-b11d-d9278dabdc36
+Already Process 2025.acl-long.941.pdf-ef7f4ef6-b13d-4abe-8a01-b622d953645b
+Already Process 2025.acl-long.657.pdf-d6620d5c-0370-4ca7-bc0a-4126f6437265
+Already Process 2025.acl-long.1589.pdf-5b6eccf6-e98c-4ff2-908c-e4cbd0774f0f
+Already Process 2025.acl-long.1103.pdf-fe9b694d-d194-4d1a-8cd8-2d00b59397d5
+Already Process 2025.acl-long.522.pdf-f40a8c88-7ba6-431f-88ef-1b977d135565
+Already Process 2025.acl-long.729.pdf-4e3f030b-1578-4c00-922f-e7750c38d3ed
+Already Process 2025.acl-long.1502.pdf-dc68f3e5-0e2a-4f4a-a77e-819cbec15ccc
+Already Process 2025.acl-long.287.pdf-3196f465-7bf5-4807-9f05-4520c6eeabff
+Already Process 2025.acl-long.75.pdf-a75658e5-a6b6-4dd6-b9f1-b14aa9248717
+Already Process 2025.acl-long.1581.pdf-2d40d1be-113f-4d57-8fef-c11839953b41
+Already Process 2025.acl-long.322.pdf-16565c56-3040-40fb-b1a2-708b6a750a25
+Already Process 2025.acl-long.73.pdf-c91f89e8-6885-4aef-885a-517858e27cd3
+Already Process 2025.acl-long.626.pdf-61ce3e2b-ea59-448b-a3b4-3a9358f3537a
+Already Process 2025.acl-long.442.pdf-8c7a98fa-e132-42f8-8aa7-485e8b02a60e
+Already Process 2025.acl-long.1376.pdf-eb32324e-617a-40ea-ba80-a2cc52e11dd0
+Already Process 2025.acl-long.117.pdf-2fc16db7-a3a0-4c5b-bcea-baebe10c421e
+Already Process 2025.acl-long.1321.pdf-1dbb0a75-ea5c-4a4a-9dd3-639dfa3ce3dd

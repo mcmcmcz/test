@@ -1,0 +1,35 @@
+nohup: ignoring input
+/home/tcsu/All_LLM/Qwen2.5-32B-Instruct/
+Loading checkpoint shards:   0%|                                                                                                            | 0/17 [00:00<?, ?it/s]Loading checkpoint shards:   6%|█████▉                                                                                              | 1/17 [00:00<00:14,  1.07it/s]Loading checkpoint shards:  12%|███████████▊                                                                                        | 2/17 [00:01<00:12,  1.17it/s]Loading checkpoint shards:  18%|█████████████████▋                                                                                  | 3/17 [00:02<00:11,  1.24it/s]Loading checkpoint shards:  24%|███████████████████████▌                                                                            | 4/17 [00:03<00:10,  1.26it/s]Loading checkpoint shards:  29%|█████████████████████████████▍                                                                      | 5/17 [00:03<00:08,  1.34it/s]Loading checkpoint shards:  35%|███████████████████████████████████▎                                                                | 6/17 [00:04<00:07,  1.43it/s]Loading checkpoint shards:  41%|█████████████████████████████████████████▏                                                          | 7/17 [00:05<00:06,  1.47it/s]Loading checkpoint shards:  47%|███████████████████████████████████████████████                                                     | 8/17 [00:05<00:06,  1.38it/s]Loading checkpoint shards:  53%|████████████████████████████████████████████████████▉                                               | 9/17 [00:06<00:05,  1.38it/s]Loading checkpoint shards:  71%|█████████████████████████████████████████████████████████████████████▉                             | 12/17 [00:06<00:01,  3.03it/s]Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [00:06<00:00,  2.48it/s]
+Some parameters are on the meta device because they were offloaded to the cpu.
+共找到 25557 个解码后包含中文的 token
+1176
+testing stage_ta
+956
+Wrong 2025.acl-long.262.pdf-6b1c42f8-0b3d-412a-9fe2-09d62ab4409b
+Wrong 2025.acl-long.702.pdf-737854a3-84bb-4e01-a3e2-29e0f3efaa4d
+Wrong 2025.acl-long.50.pdf-9c793207-5244-4aa7-9339-febbd6061d28
+Wrong 2025.acl-long.1572.pdf-f9e4d961-b587-45c3-9b5b-5ec606296fff
+Wrong 2025.acl-long.1541.pdf-9ad1dd20-e8c0-4534-9360-054d76de19a7
+Wrong 2025.acl-long.289.pdf-3377617f-5c7c-4434-91fc-55910c4913e1
+Wrong 2025.acl-long.1072.pdf-cdf92609-8a5a-4fc3-8a40-b39f0bd77241
+Wrong 2025.acl-long.661.pdf-96ece43e-ef4f-47b3-bc8f-b4d4065c24db
+Wrong 2025.acl-long.680.pdf-5c9ea8cb-d2a0-4b57-b44b-0a5d95670ec4
+Wrong 2025.acl-long.1570.pdf-0741fb76-d32d-46dd-bb06-6d4544cbb081
+Wrong 2025.acl-long.803.pdf-fffe407f-651e-4217-a2e0-bdcba9d38fc8
+Wrong 2025.acl-long.872.pdf-f1c9425e-5482-4991-b131-0f3c6c4aafa8
+Wrong 2025.acl-long.169.pdf-7b80fb37-3bb7-4e57-92f2-86ccb144a36b
+Wrong 2025.acl-long.1008.pdf-ca74a286-63f7-4d38-a195-ad8d21a32075
+Wrong 2025.acl-long.773.pdf-d9da308e-0edf-40e5-a17a-527ebb0b57a3
+Wrong 2025.acl-long.1532.pdf-87f86026-2297-46f3-b16f-2de5eb64fef2
+Wrong 2025.acl-long.409.pdf-8998a5ad-c887-45ac-95cc-7ddca6ab5ecd
+Wrong 2025.acl-long.324.pdf-d6b50515-55ac-4835-89ac-1c3639fdbbc6
+Wrong 2025.acl-long.158.pdf-fe301551-7374-4da9-8a21-b67f41604295
+Wrong 2025.acl-long.338.pdf-c8999cb9-f3a2-4798-9f53-92a1df5fe62b
+Wrong 2025.acl-long.1350.pdf-843c5309-9a80-4c08-a2bb-decb5c866ee5
+Wrong 2025.acl-long.47.pdf-76bf3075-9f18-4a1d-942e-d0e5615c8da5
+Wrong 2025.acl-long.249.pdf-7352b886-4920-4ad0-ac69-4b817cba2fd2
+Wrong 2025.acl-long.1466.pdf-04f97c48-a6ce-45a0-81f2-a642f6ae2982
+Wrong 2025.acl-long.1041.pdf-685f7633-055a-4c72-8661-e1807563e0a7
+Wrong 2025.acl-long.591.pdf-98c5be57-7a4d-4b37-9675-1df50c00bfb5
+Wrong 2025.acl-long.139.pdf-6319131b-b56f-49f6-acde-1c3a5d93f9af
